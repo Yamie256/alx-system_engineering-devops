@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tmp/h$./0-hello_world|cat -e "Hello,Word"
+echo "Hello,World"
