@@ -1,3 +1,2 @@
 #!/bin/bash
-#located in tmp/h
-echo >  "Hello, World"
+echo > "Hello, World"
