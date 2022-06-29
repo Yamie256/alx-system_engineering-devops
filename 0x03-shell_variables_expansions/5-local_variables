@@ -1,2 +1,2 @@
 #!/bin/bash
-echo > printenvir|ls|/etc* | echo $VARNAME|ls|/etc*
+echo > printenvir|ls\|/etc*|echo $VARNAME|ls\|/etc*
