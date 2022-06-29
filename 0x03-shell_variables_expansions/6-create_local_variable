@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $VARBEST="school" | alias [-P] [BEST=school]
+BEST=school
