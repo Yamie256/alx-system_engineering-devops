@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(export ($BREATH=4)*(export $LOVE=3)**)
