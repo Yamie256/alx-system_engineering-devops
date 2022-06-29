@@ -1,2 +1,2 @@
 #!/binb/bash
-printf "%0.2f\n" {a..z}{a..z}|grep -v "oo"
+printf "%0.2s\n" {a..z} | grep -v "oo"
