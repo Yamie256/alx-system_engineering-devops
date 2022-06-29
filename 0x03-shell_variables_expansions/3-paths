@@ -1,2 +1,2 @@
 #!/bin/bash
-echo > $PATH | find /etc -type d | wc -l
+echo > $PATH |ls| find /etc -type d | wc -l
